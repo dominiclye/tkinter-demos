@@ -3,7 +3,7 @@
 # Lots of bad coding practices, interesting to see my old code.
 
 import tkinter as tk
-from tkinter import Radiobutton, ttk
+from tkinter import ttk
 from tkinter.colorchooser import askcolor
 from tkcalendar import DateEntry
 from tkinter import filedialog as fd
